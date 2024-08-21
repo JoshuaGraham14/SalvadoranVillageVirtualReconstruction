@@ -1,6 +1,4 @@
-Uploading project soon. It's 15GB... please forgive me.
-
-Meanwhile, here are some screenshots of the final product:
+Uploading project soon. It's 15GB... please forgive me. Meanwhile, here are some screenshots of the final product:
 
 ## Final Product
 ![MainMenu](https://github.com/user-attachments/assets/59df1c2f-f4d0-4546-b39d-1af4b2f28150)
